@@ -20,3 +20,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Submission Date
 15.02.2020
+
+### Code editor used in project
+Anaconda - Spyder
