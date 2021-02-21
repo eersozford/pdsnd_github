@@ -18,3 +18,5 @@ washington data file
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Submission Date
+15.02.2020
