@@ -8,7 +8,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Project is showing the statistical bikeshare results of three cities. 
 
 ### Files used
 Include the files used
