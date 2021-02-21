@@ -273,6 +273,9 @@ def main():
             print("Program is closing...")
             print('-'*40)
             break
+        else: 
+            print("Program is restarting...")
+            print('-'*40)
 
 
 if __name__ == "__main__":
