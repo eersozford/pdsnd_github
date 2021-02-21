@@ -270,7 +270,12 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Program is closing...")
+            print('-'*40)
             break
+        else: 
+            print("Program is restarting...")
+            print('-'*40)
 
 
 if __name__ == "__main__":
